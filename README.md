@@ -1,6 +1,6 @@
 # Hello, my name is Michele
 
-I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies.
+I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies, and working with databases in Django.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,6 +20,8 @@ I also work with the following frameworks and libraries:
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Rocket](https://img.shields.io/badge/Rocket-000000?style=for-the-badge&logo=rocket&logoColor=white)
 
 I am also proficient in:
