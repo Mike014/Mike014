@@ -1,6 +1,6 @@
 # Hello, my name is Michele
 
-I am an **Audio Programmer**, **Technical Sound Designer**, **DSP Developer**, and **Software Developer**, specializing in audio for various applications. I have a certification in Computer Science and am proficient in several programming languages:
+I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
