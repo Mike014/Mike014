@@ -1,6 +1,6 @@
 # Hello, my name is Michele
 
-I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies, and working with databases in Django.
+I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. **DSP (Digital Signal Processing)** involves the manipulation of digital signals, such as audio, to enhance or analyze them. In audio programming, DSP is used for tasks like noise reduction, equalization, sound synthesis, and more, allowing us to transform and improve audio signals for a wide range of applications. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies, and working with databases in Django.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
