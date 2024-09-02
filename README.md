@@ -9,9 +9,6 @@ I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell**
 ## My Resume
 
 You can view and download my resume using the link below:
-
-[![Resume Icon](https://img.icons8.com/material-outlined/24/000000/resume.png)](https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view)
-
 [Download Resume](https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view)
 
 Check some of my best work: 
