@@ -1,10 +1,10 @@
 # Hello, my name is Michele
 
-I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications (https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) in Music Technologies from Steinberg and in Programming, and I am professionally certified in Computer Science.
+I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) and in Programming, and I am professionally certified in Computer Science.
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
-I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence**(**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK and spaCy** to develop and refine NLP models.
+I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence** (**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK and spaCy** to develop and refine NLP models.
 
 ## My Resume
 
@@ -29,9 +29,14 @@ You can view and download my resume using the link below:
 
 ![Csound](https://img.shields.io/badge/Csound-000000?style=for-the-badge&logo=csound&logoColor=white) ![MaxMSP](https://img.shields.io/badge/MaxMSP-000000?style=for-the-badge&logo=max&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-grimaldi-599b36280/)  
 Contact me via email: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) mikgrimaldi7@gmail.com
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mike014&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mike014&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)
+
+## Visit My GitHub Pages
+
+Check out my [personal website](https://mike014.github.io/) for more details about my work and projects. (work in progress)
+
 
