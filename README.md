@@ -1,6 +1,8 @@
 # Hello, my name is Michele
 
-I am a **Software Developer** with a strong background in **Audio Programming**, **Technical Sound Design**, and **DSP Development**. **DSP (Digital Signal Processing)** involves the manipulation of digital signals, such as audio, to enhance or analyze them. In audio programming, DSP is used for tasks like noise reduction, equalization, sound synthesis, and more, allowing us to transform and improve audio signals for a wide range of applications. I hold a certification in Computer Science and have experience in several programming languages. My expertise includes **developing software solutions** for various applications, including audio technologies, and working with databases in Django.
+I am a **Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I hold a certification in Computer Science and have experience with multiple programming languages.
+
+**Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,11 +20,9 @@ I use the **JUCE** framework for audio applications, VSTs, plugins, etc.
 I also work with the following frameworks and libraries:
 
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Rocket](https://img.shields.io/badge/Rocket-000000?style=for-the-badge&logo=rocket&logoColor=white)
 
 I am also proficient in:
 
