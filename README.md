@@ -8,8 +8,8 @@ I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell**
 
 ## My Resume
 
-You can view and download my resume using the link below:
-[Download Resume]([[https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view]](https://drive.google.com/drive/u/0/home))
+You can view and download my resume using the link below:  
+[Download Resume](https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view)
 
 ## Check some of my best work: ##
 - [Chatbot Repository](https://github.com/Mike014/Chatbot) This repository contains the **prototype of a ChatBot** designed for audio playback and other audio-related functionalities in both video games and other applications.
