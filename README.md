@@ -1,6 +1,6 @@
 # Hello, my name is Michele
 
-I am a **Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications (https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) in Music Technologies from Steinberg and in Programming, and I am professionally certified in Computer Science.
+I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications (https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) in Music Technologies from Steinberg and in Programming, and I am professionally certified in Computer Science.
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
