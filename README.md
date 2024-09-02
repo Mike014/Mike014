@@ -17,6 +17,8 @@ You can view and download my resume using the link below:
 - [Simple Translator](https://github.com/Mike014/Simple-Translator) The application is a simple translator based on Django that allows users to input text in Italian and get a translation in English. The application uses Google Translate to perform the translation and displays the result on a separate page.
 - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor-) Audio Sample Editor is an intuitive application designed for game developers who want to easily manipulate and enhance audio files.
 
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/Mike014)
+
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
