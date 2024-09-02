@@ -4,6 +4,13 @@ I am a **Software Developer** with a strong background in **Audio Programming** 
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
+I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence**(**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK and spaCy** to develop and refine NLP models.
+
+Check some of my best work: 
+- [Chatbot Repository](https://github.com/Mike014/Chatbot) This repository contains the **prototype of a ChatBot** designed for audio playback and other audio-related functionalities in both video games and other applications.
+- [Audio Transcription](https://github.com/Mike014/Audio-Transcription) This project is a **Django-based web application** that allows users to upload audio files and get the transcription of the audio content. It uses the speech_recognition library to transcribe the audio.
+- [Simple Translator](https://github.com/Mike014/Simple-Translator) The application is a simple translator based on Django that allows users to input text in Italian and get a translation in English. The application uses Google Translate to perform the translation and displays the result on a separate page.
+
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,6 +19,8 @@ I am a **Software Developer** with a strong background in **Audio Programming** 
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 I use the **JUCE** framework for audio applications, VSTs, plugins, etc.
 
@@ -21,8 +30,6 @@ I also work with the following frameworks and libraries:
 
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 I am also proficient in:
 
