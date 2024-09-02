@@ -6,6 +6,8 @@ I am a **Software Developer** with a strong background in **Audio Programming** 
 
 I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence**(**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK and spaCy** to develop and refine NLP models.
 
+My Resume : (https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view)
+
 Check some of my best work: 
 - [Chatbot Repository](https://github.com/Mike014/Chatbot) This repository contains the **prototype of a ChatBot** designed for audio playback and other audio-related functionalities in both video games and other applications.
 - [Audio Transcription](https://github.com/Mike014/Audio-Transcription) This project is a **Django-based web application** that allows users to upload audio files and get the transcription of the audio content. It uses the speech_recognition library to transcribe the audio.
