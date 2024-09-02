@@ -32,3 +32,6 @@ You can view and download my resume using the link below:
 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 Contact me via email: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) mikgrimaldi7@gmail.com
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mike014&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)
+
