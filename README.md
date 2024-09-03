@@ -16,6 +16,7 @@ You can view and download my resume using the link below:
 - [Audio Transcription](https://github.com/Mike014/Audio-Transcription) This project is a **Django-based web application** that allows users to upload audio files and get the transcription of the audio content. It uses the speech_recognition library to transcribe the audio.
 - [Simple Translator](https://github.com/Mike014/Simple-Translator) The application is a simple translator based on Django that allows users to input text in Italian and get a translation in English. The application uses Google Translate to perform the translation and displays the result on a separate page.
 - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor-) Audio Sample Editor is an intuitive application designed for game developers who want to easily manipulate and enhance audio files.
+- [GPT2-Chatbot](https://github.com/Mike014/GPT2-Chatbot/tree/main) I developed a chatbot using the GPT-2 model, fine-tuned with my data for coherent responses. The project includes a Flask backend and a dynamic frontend with HTML, CSS, and JavaScript.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014)
 
