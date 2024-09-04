@@ -1,6 +1,6 @@
 # Hello, my name is Michele
 
-I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) and in Programming, and I am professionally certified in Computer Science.
+I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/), and I am professionally certified in Computer Science.
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
@@ -17,6 +17,7 @@ You can view and download my resume using the link below:
 - [Simple Translator](https://github.com/Mike014/Simple-Translator) The application is a simple translator based on Django that allows users to input text in Italian and get a translation in English. The application uses Google Translate to perform the translation and displays the result on a separate page.
 - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor-) Audio Sample Editor is an intuitive application designed for game developers who want to easily manipulate and enhance audio files.
 - [GPT2-Chatbot](https://github.com/Mike014/GPT2-Chatbot/tree/main) I developed a chatbot using the GPT-2 model, fine-tuned with my data for coherent responses. The project includes a Flask backend and a dynamic frontend with HTML, CSS, and JavaScript.
+- [Digital Audio Archive](https://github.com/Mike014/Digital-Audio-Archive) The Digital Audio Archive is a web application that allows users to upload, view, and remove audio files. It uses Node.js for the backend, Express for routing, Multer for file uploads, SQLite as the database, and EJS as the templating engine for rendering HTML pages.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014)
 
