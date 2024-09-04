@@ -18,6 +18,7 @@ You can view and download my resume using the link below:
 - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor-) Audio Sample Editor is an intuitive application designed for game developers who want to easily manipulate and enhance audio files.
 - [GPT2-Chatbot](https://github.com/Mike014/GPT2-Chatbot/tree/main) I developed a chatbot using the GPT-2 model, fine-tuned with my data for coherent responses. The project includes a Flask backend and a dynamic frontend with HTML, CSS, and JavaScript.
 - [Digital Audio Archive](https://github.com/Mike014/Digital-Audio-Archive) The Digital Audio Archive is a web application that allows users to upload, view, and remove audio files. It uses Node.js for the backend, Express for routing, Multer for file uploads, SQLite as the database, and EJS as the templating engine for rendering HTML pages.
+- [Audio Classification](https://github.com/Mike014/Audio-Classification-) This is a prototype Django application that allows users to upload audio files and classify them using machine learning techniques. The app uses Principal Component Analysis (PCA) for feature reduction and K-Nearest Neighbors (KNN) for classification. The application is designed to be extendable, allowing for the addition of more data and classes in the future.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014)
 
