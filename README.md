@@ -32,10 +32,6 @@ You can view and download my resume using the link below:
 
 ![Csound](https://img.shields.io/badge/Csound-000000?style=for-the-badge&logo=csound&logoColor=white) ![MaxMSP](https://img.shields.io/badge/MaxMSP-000000?style=for-the-badge&logo=max&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## GitHub Contributions
-
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Mike014&theme=github)
-
 ## CodeAcademy Profile
 
 Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
