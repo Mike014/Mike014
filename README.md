@@ -18,14 +18,14 @@ You can view and download my resume using the link below:
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | ![Chatbot Repository](https://img.shields.io/badge/Chatbot%20Repository-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot Repository](https://github.com/Mike014/Chatbot) | Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications. | Python, Audio Processing |
-| ![Chatbot_App](https://img.shields.io/badge/Chatbot_App-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) | GUI application using NLP techniques such as tokenization, stemming, stop word removal, and regular expressions, built with Tkinter. | Python, Tkinter, NLP |
+| ![Chatbot_App](https://img.shields.io/badge/Chatbot_App-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) | A GUI application that leverages NLP techniques such as tokenization, stemming, lemmatization, and POS tagging, built with Tkinter. Integrates various NLP functionalities into an intuitive interface. | Python, Tkinter, NLP, DialoGPT |
 
 ### **Web Applications**
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | ![Audio Transcription](https://img.shields.io/badge/Audio%20Transcription-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Audio Transcription](https://github.com/Mike014/Audio-Transcription) | Django-based web application for uploading audio files and obtaining transcriptions using the speech_recognition library. | Django, Python, Speech Recognition |
-| ![Simple Translator](https://img.shields.io/badge/Simple%20Translator-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Simple Translator](https://github.com/Mike014/Simple-Translator) | Django application that translates text from Italian to English using Google Translate, with results displayed on a separate page. | Django, Google Translate API |
+| ![Simple Translator](https://img.shields.io/badge/Simple%20Translator-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Simple Translator](https://github.com/Mike014/Simple-Translator) | Django application that translates text from Italian to English using Google Translate, displaying results on a separate page. | Django, Google Translate API |
 | ![Digital Audio Archive](https://img.shields.io/badge/Digital%20Audio%20Archive-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Digital Audio Archive](https://github.com/Mike014/Digital-Audio-Archive) | Web application for uploading, viewing, and managing audio files, utilizing Node.js, Express, Multer, SQLite, and EJS. | Node.js, Express, SQLite, EJS |
 
 ### **Machine Learning and Classification**
@@ -51,6 +51,7 @@ You can view and download my resume using the link below:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)
 
 ## Visit My GitHub Pages
+
 
 Check out my [personal website](https://mike014.github.io/) for more details about my work and projects. (work in progress)
 
