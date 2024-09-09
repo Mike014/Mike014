@@ -1,51 +1,46 @@
-<p align="center">
-<a href="https://github.com/Mike014">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Michele+Grimaldi;Back-End+Software+Developer+%7C+Audio+Programmer;DSP+%7C+AI+%7C+NLP+%7C+Technical+Sound+Design" alt="Typing SVG" />
-</a>
-</p>
-
 # Hello, my name is Michele
 
 I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/).
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
 
-I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence** (**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK and spaCy** to develop and refine NLP models.
+I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence** (**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK** and **spaCy** to develop and refine NLP models.
 
 ## My Resume
 
 You can view and download my resume using the link below:  
 [Download Resume](https://drive.google.com/file/d/1oCYa-MGkEwIRMs6Y2g0gYt6duSrDK5l_/view)
 
-## Check some of my best work: ##
-- [Chatbot Repository](https://github.com/Mike014/Chatbot) This repository contains the **prototype of a ChatBot** designed for audio playback and other audio-related functionalities in both video games and other applications.
-- [Audio Transcription](https://github.com/Mike014/Audio-Transcription) This project is a **Django-based web application** that allows users to upload audio files and get the transcription of the audio content. It uses the speech_recognition library to transcribe the audio.
-- [Simple Translator](https://github.com/Mike014/Simple-Translator) The application is a simple translator based on Django that allows users to input text in Italian and get a translation in English. The application uses Google Translate to perform the translation and displays the result on a separate page.
-- [Digital Audio Archive](https://github.com/Mike014/Digital-Audio-Archive) The Digital Audio Archive is a web application that allows users to upload, view, and remove audio files. It uses Node.js for the backend, Express for routing, Multer for file uploads, SQLite as the database, and EJS as the templating engine for rendering HTML pages.
-- [Audio Classification](https://github.com/Mike014/Audio-Classification-) This is a prototype Django application that allows users to upload audio files and classify them using machine learning techniques. The app uses Principal Component Analysis (PCA) for feature reduction and K-Nearest Neighbors (KNN) for classification. The application is designed to be extendable, allowing for the addition of more data and classes in the future.
-- [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) Chabot is an application with a graphical user interface that uses various natural language processing (NLP) techniques to tokenize, stem, find stop words, and apply regular expressions to user-input text. The interface is built using Tkinter.
-- [PCOptimizerAI](https://github.com/Mike014/PCOptimizerAI) PCOptimizerAI is an advanced application designed to optimize computer resources using machine learning and artificial intelligence techniques. By analyzing CPU, RAM, and GPU usage, the app provides personalized recommendations to improve system performance in various scenarios, such as gaming, programming, and deep learning.
+## Check Some of My Best Work
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014)
+### **Chatbots and NLP**
+- [**Chatbot Repository**](https://github.com/Mike014/Chatbot)  
+  Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications.
+- [**Chatbot_App**](https://github.com/Mike014/Chatbot_App/tree/main)  
+  GUI application using NLP techniques such as tokenization, stemming, stop word removal, and regular expressions, built with Tkinter.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **Web Applications**
+- [**Audio Transcription**](https://github.com/Mike014/Audio-Transcription)  
+  Django-based web application for uploading audio files and obtaining transcriptions using the speech_recognition library.
+- [**Simple Translator**](https://github.com/Mike014/Simple-Translator)  
+  Django application that translates text from Italian to English using Google Translate, with results displayed on a separate page.
+- [**Digital Audio Archive**](https://github.com/Mike014/Digital-Audio-Archive)  
+  Web application for uploading, viewing, and managing audio files, utilizing Node.js, Express, Multer, SQLite, and EJS.
 
-### I also work with the following frameworks and libraries:
+### **Machine Learning and Classification**
+- [**Audio Classification**](https://github.com/Mike014/Audio-Classification-)  
+  Prototype Django app for uploading and classifying audio files using PCA for feature reduction and KNN for classification. Designed for future extension with additional data and classes.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### **Advanced Applications**
+- [**PCOptimizerAI**](https://github.com/Mike014/PCOptimizerAI)  
+  Application optimized for computer resources using AI techniques, providing personalized recommendations based on CPU, RAM, and GPU usage for scenarios such as gaming, programming, and deep learning.
 
-### I am also proficient in:
+## Connect with Me
 
-![Csound](https://img.shields.io/badge/Csound-000000?style=for-the-badge&logo=csound&logoColor=white) ![MaxMSP](https://img.shields.io/badge/MaxMSP-000000?style=for-the-badge&logo=max&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+- **LinkedIn:** [Michele Grimaldi](https://www.linkedin.com/in/michele-grimaldi-599b36280/)
+- **Email:** [mikgrimaldi7@gmail.com](mailto:mikgrimaldi7@gmail.com)
 
-## CodeAcademy Profile
-
-Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
-
-Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-grimaldi-599b36280/)  
-Contact me via email:  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) mikgrimaldi7@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mike014&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)
