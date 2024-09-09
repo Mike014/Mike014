@@ -14,26 +14,31 @@ You can view and download my resume using the link below:
 ## Check Some of My Best Work
 
 ### **Chatbots and NLP**
-- [**Chatbot Repository**](https://github.com/Mike014/Chatbot)  
-  Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications.
-- [**Chatbot_App**](https://github.com/Mike014/Chatbot_App/tree/main)  
-  GUI application using NLP techniques such as tokenization, stemming, stop word removal, and regular expressions, built with Tkinter.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![Chatbot Repository](https://img.shields.io/badge/Chatbot%20Repository-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot Repository](https://github.com/Mike014/Chatbot) | Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications. | Python, Audio Processing |
+| ![Chatbot_App](https://img.shields.io/badge/Chatbot_App-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) | GUI application using NLP techniques such as tokenization, stemming, stop word removal, and regular expressions, built with Tkinter. | Python, Tkinter, NLP |
 
 ### **Web Applications**
-- [**Audio Transcription**](https://github.com/Mike014/Audio-Transcription)  
-  Django-based web application for uploading audio files and obtaining transcriptions using the speech_recognition library.
-- [**Simple Translator**](https://github.com/Mike014/Simple-Translator)  
-  Django application that translates text from Italian to English using Google Translate, with results displayed on a separate page.
-- [**Digital Audio Archive**](https://github.com/Mike014/Digital-Audio-Archive)  
-  Web application for uploading, viewing, and managing audio files, utilizing Node.js, Express, Multer, SQLite, and EJS.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![Audio Transcription](https://img.shields.io/badge/Audio%20Transcription-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Audio Transcription](https://github.com/Mike014/Audio-Transcription) | Django-based web application for uploading audio files and obtaining transcriptions using the speech_recognition library. | Django, Python, Speech Recognition |
+| ![Simple Translator](https://img.shields.io/badge/Simple%20Translator-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Simple Translator](https://github.com/Mike014/Simple-Translator) | Django application that translates text from Italian to English using Google Translate, with results displayed on a separate page. | Django, Google Translate API |
+| ![Digital Audio Archive](https://img.shields.io/badge/Digital%20Audio%20Archive-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Digital Audio Archive](https://github.com/Mike014/Digital-Audio-Archive) | Web application for uploading, viewing, and managing audio files, utilizing Node.js, Express, Multer, SQLite, and EJS. | Node.js, Express, SQLite, EJS |
 
 ### **Machine Learning and Classification**
-- [**Audio Classification**](https://github.com/Mike014/Audio-Classification-)  
-  Prototype Django app for uploading and classifying audio files using PCA for feature reduction and KNN for classification. Designed for future extension with additional data and classes.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![Audio Classification](https://img.shields.io/badge/Audio%20Classification-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Audio Classification](https://github.com/Mike014/Audio-Classification-) | Prototype Django app for uploading and classifying audio files using PCA for feature reduction and KNN for classification. Designed for future extension with additional data and classes. | Django, Python, PCA, KNN |
 
 ### **Advanced Applications**
-- [**PCOptimizerAI**](https://github.com/Mike014/PCOptimizerAI)  
-  Application optimized for computer resources using AI techniques, providing personalized recommendations based on CPU, RAM, and GPU usage for scenarios such as gaming, programming, and deep learning.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![PCOptimizerAI](https://img.shields.io/badge/PCOptimizerAI-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [PCOptimizerAI](https://github.com/Mike014/PCOptimizerAI) | Application optimized for computer resources using AI techniques, providing personalized recommendations based on CPU, RAM, and GPU usage for scenarios such as gaming, programming, and deep learning. | Python, Machine Learning, AI |
 
 ## Connect with Me
 
@@ -48,6 +53,7 @@ You can view and download my resume using the link below:
 ## Visit My GitHub Pages
 
 Check out my [personal website](https://mike014.github.io/) for more details about my work and projects. (work in progress)
+
 
 
 
