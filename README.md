@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://github.com/Mike014">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Michele+Grimaldi;Back-End+Software+Developer+%7C+Audio+Programmer;DSP+%7C+AI+%7C+NLP" alt="Typing SVG" />
+</a>
+</p>
+
+
 # Hello, my name is Michele
 
 I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/).
