@@ -34,13 +34,6 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 
 ## Check Some of My Best Work
 
-### **Chatbots and NLP**
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| ![Chatbot Repository](https://img.shields.io/badge/Chatbot%20Repository-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot Repository](https://github.com/Mike014/Chatbot) | Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications. | Python, Audio Processing |
-| ![Chatbot_App](https://img.shields.io/badge/Chatbot_App-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) | A GUI application that leverages NLP techniques such as tokenization, stemming, lemmatization, and POS tagging, built with Tkinter. Integrates various NLP functionalities into an intuitive interface. | Python, Tkinter, NLP, DialoGPT |
-
 ### **Web Applications**
 
 | Project | Description | Technologies |
