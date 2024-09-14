@@ -61,6 +61,8 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | ![PCOptimizerAI](https://img.shields.io/badge/PCOptimizerAI-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [PCOptimizerAI](https://github.com/Mike014/PCOptimizerAI) | Application optimized for computer resources using AI techniques, providing personalized recommendations based on CPU, RAM, and GPU usage for scenarios such as gaming, programming, and deep learning. | Python, Machine Learning, AI |
+| ![House Price Predictor](https://img.shields.io/badge/House%20Price%20Predictor-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [House Price Predictor](https://github.com/Mike014/House-Price-Predictor-Application) | Python application that predicts house prices based on their size in square meters using a linear regression model. Includes a GUI for user interaction, logging, database management, and concurrency features. | Python, Tkinter, SQLite, Machine Learning |
+
 
 ## Connect with Me
 
