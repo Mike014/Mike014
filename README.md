@@ -4,14 +4,15 @@
 </a>
 </p>
 
-
 # Hello, my name is Michele
 
-I am a **Back-End Software Developer** with a strong background in **Audio Programming** and **Technical Sound Design**. I specialize in **DSP (Digital Signal Processing)**, which involves manipulating digital audio signals to enhance or analyze them. My expertise includes developing software solutions for various applications, including audio technologies, and working with databases in Django. I have obtained certifications [in Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/).
+I’m a **Junior Back-End Developer** with a background in **Audio Programming and Technical Sound Design**. My expertise includes DSP and developing software with Django. I’m also certified [in Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/).
+
+I work with GitBash, MSYS2, and PowerShell. Currently, I focus on AI and NLP using libraries like NLTK and spaCy.
+
+Explore my repositories for educational projects and experiments.
 
 **Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
-
-I work extensively with tools such as **GitBash**, **MSYS2**, and **PowerShell** to manage development workflows efficiently. My passion for **Artificial Intelligence** (**AI**) drives me to explore and study various AI subsets. Currently, I am focusing on **Natural Language Processing (NLP)** and actively use libraries like **NLTK** and **spaCy** to develop and refine NLP models.
 
 ## My Resume
 
