@@ -45,6 +45,9 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 | ![Traffic Monitor](https://img.shields.io/badge/Traffic%20Monitor-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Traffic Monitor](https://traffic-monitor.onrender.com/) | Web application for calculating the shortest path between two points on a map and predicting traffic conditions using Dijkstra's algorithm and KNN. | Flask, Python, Leaflet, OpenStreetMap, Render |
 | ![Champions League Predictor](https://img.shields.io/badge/Champions%20League%20Predictor-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Champions League Predictor](https://champions-league-predictor.onrender.com/) | This web application predicts the number of goals scored by a team in the Champions League based on various statistical parameters. It uses a linear regression model trained on a historical dataset of team performances. | Flask, Python, Pandas, Scikit-learn, Render |
 | ![Library-Assessment](https://img.shields.io/badge/Library%20Assessment%20-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Library-Assessment](https://champions-league-predictor.onrender.com/](https://github.com/Mike014/Library-Assessment)) | This Django application provides a comprehensive system for managing a library, with features for authentication, search, and recommendation.  | Django, Django RestFramework, Django Rest Framework-Simple jwt |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![Audio Classification](https://img.shields.io/badge/Audio%20Classification-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Audio Classification](https://github.com/Mike014/Audio-Classification-) | Prototype Django app for uploading and classifying audio files using PCA for feature reduction and KNN for classification. Designed for future extension with additional data and classes. | Django, Python, PCA, KNN |
 
 ### **Chatbots and NLP**
 
@@ -52,12 +55,6 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 |---------|-------------|--------------|
 | ![Chatbot Repository](https://img.shields.io/badge/Chatbot%20Repository-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot Repository](https://github.com/Mike014/Chatbot) | Prototype of a ChatBot designed for audio playback and other audio-related functionalities in video games and various applications. | Python, Audio Processing |
 | ![Chatbot_App](https://img.shields.io/badge/Chatbot_App-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Chatbot_App](https://github.com/Mike014/Chatbot_App/tree/main) | A GUI application that leverages NLP techniques such as tokenization, stemming, lemmatization, and POS tagging, built with Tkinter. Integrates various NLP functionalities into an intuitive interface. | Python, Tkinter, NLP, DialoGPT |
-
-### **Machine Learning and Classification**
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| ![Audio Classification](https://img.shields.io/badge/Audio%20Classification-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [Audio Classification](https://github.com/Mike014/Audio-Classification-) | Prototype Django app for uploading and classifying audio files using PCA for feature reduction and KNN for classification. Designed for future extension with additional data and classes. | Django, Python, PCA, KNN |
 
 ### **Advanced Applications**
 
