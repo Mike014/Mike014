@@ -65,6 +65,16 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 | ![PCOptimizerAI](https://img.shields.io/badge/PCOptimizerAI-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [PCOptimizerAI](https://github.com/Mike014/PCOptimizerAI) | Application optimized for computer resources using AI techniques, providing personalized recommendations based on CPU, RAM, and GPU usage for scenarios such as gaming, programming, and deep learning. | Python, Machine Learning, AI |
 | ![House Price Predictor](https://img.shields.io/badge/House%20Price%20Predictor-Project%20Icon?style=for-the-badge&logo=github&logoColor=white) [House Price Predictor](https://github.com/Mike014/House-Price-Predictor-Application) | Python application that predicts house prices based on their size in square meters using a linear regression model. Includes a GUI for user interaction, logging, database management, and concurrency features. | Python, Tkinter, SQLite, Machine Learning |
 
+## iOS Development
+
+As an aspiring iOS Developer, I actively work on projects involving Swift, SwiftUI, and iOS SDKs. Below are some key highlights of my work in the iOS ecosystem:
+
+### Featured iOS Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ![Morse Code Translator](https://img.shields.io/badge/Morse%20Code%20Translator-Project%20Icon?style=for-the-badge&logo=swift&logoColor=white) [Morse Code Translator](https://github.com/Mike014/MorseCodeTranslator) | An iOS app developed with SwiftUI that translates English text to Morse code and vice versa, featuring an intuitive user interface. | Swift, SwiftUI |
+| ![Chordboard Music App](https://img.shields.io/badge/Chordboard%20Music%20App-Project%20Icon?style=for-the-badge&logo=swift&logoColor=white) [Chordboard Music App](https://github.com/Mike014/Chordboard) | Cross-platform audio plugin for music composition, developed with JUCE and C++. Includes iOS compatibility for mobile usage. | JUCE, C++, Swift |
 
 ## Connect with Me
 
@@ -77,8 +87,6 @@ Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)
 
 ## Visit My GitHub Pages
-
-
 Check out my [personal website](https://mike014.github.io/) for more details about my work and projects. (work in progress)
 
 
