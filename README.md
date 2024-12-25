@@ -5,8 +5,20 @@
 </p>
 
 # Hello, my name is Michele
+## Junior Back-End Developer
 
-I’m a **Junior Back-End Developer** with a background in **Audio Programming and Technical Sound Design**. My expertise includes **DSP**, **NLP** and developing software with **Django**, **Flask**, **Node.js**, **JUCE**. I’m also certified in [Music Technologies from Steinberg and in Programming](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/).
+Junior Back-End Developer with a robust foundation in web development, AI, and programming. 
+
+- **Web Development:** Experienced in designing scalable applications with **Django**, **Flask**, and **Node.js**.
+- **Programming Expertise:** Proficient in **C++**, **Python**, and **SQL**.
+- **AI & Machine Learning:** Skilled in advanced programming techniques, **Natural Language Processing (NLP)**, and **machine learning**, utilizing tools like **spaCy**, **NLTK**, and **PostgreSQL**.
+- **Cross-Platform Development:** Experienced in developing audio software with **JUCE**.
+- **Automation:** Skilled in **Bash scripting** for workflow optimization.
+- **Operating Systems:** Expertise in both **Windows** and **macOS** environments.
+
+Focused on crafting efficient, user-centered solutions for diverse technical challenges.
+
+I’m certified in [various programming and technology disciplines](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/), including areas related to music technologies and software development, showcasing a versatile skill set tailored to technical problem-solving and innovation.
 
 I work with **GitBash**, **MSYS2**, and **PowerShell**. Currently, I focus on **AI** and **NLP** using libraries like **NLTK** and **spaCy**.
 
