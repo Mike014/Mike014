@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Mike014">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Michele+Grimaldi;Back-End+Software+Developer;iOS+%7C+Android+%7C+Web+%7C+Desktop+Development;AI+%7C+NLP+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Back-End+Software+Developer;iOS+%7C+Android+%7C+Web+%7C+Desktop+Development" alt="Typing SVG" />
 </a>
 </p>
 
