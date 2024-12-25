@@ -37,6 +37,10 @@ You can view and download my resume using the link below:
 
 Check out my [CodeAcademy Profile](https://www.codecademy.com/profiles/Mike_014)
 
+
+## LeetCode Profile
+
+Check out my [LeetCode Profile](https://leetcode.com/u/Mike014/)
 ## Check Some of My Best Work
 
 ### **Web Applications**
