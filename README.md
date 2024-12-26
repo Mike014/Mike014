@@ -24,8 +24,6 @@ I work with **GitBash**, **MSYS2**, and **PowerShell**. Currently, I focus on **
 
 Explore my repositories for educational projects and experiments.
 
-**Some of my repositories are educational** and contain experiments aimed at exploring new techniques and concepts. These projects serve as learning tools and may not be fully developed software solutions.
-
 ## My Resume
 
 You can view and download my resume using the link below:  
