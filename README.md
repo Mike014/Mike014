@@ -9,6 +9,9 @@
 
 Junior Back-End Developer with a robust foundation in web development, AI, and programming. 
 
+## Support My Work
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-Me-blue?style=for-the-badge)](https://github.com/sponsors/Mike014)
+
 - **Web Development:** Experienced in designing scalable applications with **Django**, **Flask**, and **Node.js**.
 - **Programming Expertise:** Proficient in **C++**, **Python**, and **SQL**.
 - **AI & Machine Learning:** Skilled in advanced programming techniques, **Natural Language Processing (NLP)**, and **machine learning**, utilizing tools like **spaCy**, **NLTK**, and **PostgreSQL**.
