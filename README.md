@@ -48,8 +48,22 @@ Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for mor
 - **LinkedIn**: [Michele Grimaldi](https://www.linkedin.com/in/michele-grimaldi-599b36280/)  
 - **Email**: [mikgrimaldi7@gmail.com](mailto:mikgrimaldi7@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact)  
+# My Open Source Contributions
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark&count_private=true)
+
+## 🔍 Top Languages in My Repositories
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=10)
+
+## 📂 Forks and Open Source Contributions
+### Stats for Forked Repositories
+![Forked Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mike014&repo=ihatemoney&theme=dark)
+
+#### Contributions Summary
+[![Code Frequency](https://img.shields.io/github/commit-activity/m/Mike014/ihatemoney?label=Commits%20per%20Month)](https://github.com/Mike014/ihatemoney)
+
+![Fork Network](https://ghchart.rshah.org/Mike014)
 
 --- 
 
