@@ -9,6 +9,9 @@
 
 I’m a Back-End Developer with expertise in **Python**, **C++**, and web development frameworks like **Django** and **Flask**. I also specialize in **AI**, **NLP**, and cross-platform development.
 
+### Certifications  
+![Django Application Development with SQL and Databases](https://images.credly.com/size/220x220/images/67f50f8a-4cd1-4cc0-b0c7-844ff6e2c39f/Django_Application_Development_with_SQL_and_Databases.png)  
+
 ---
 
 ## **Portfolio**  
@@ -18,11 +21,10 @@ Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for mor
 
 ### **Key Skills**  
 
-- **Languages**: Python, C++, Swift, SQL  
+- **Languages**: Python, C++
 - **Frameworks**: Django, Flask, JUCE  
-- **AI & Machine Learning**: NLP, spaCy, NLTK, Scikit-learn  
+- **AI & Machine Learning**: NLP, spaCy, NLTK
 - **Web Development**: Responsive design, REST APIs, scalable architecture  
-- **Tools**: Git, Bash, PowerShell, PostgreSQL  
 
 ---
 
