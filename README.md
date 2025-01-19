@@ -9,9 +9,6 @@
 
 I’m a Back-End Developer with expertise in **Python**, **C++**, and web development frameworks like **Django** and **Flask**. I also specialize in **AI**, **NLP**, and cross-platform development.
 
-### Certifications  
-![Django Application Development with SQL and Databases](https://images.credly.com/size/220x220/images/67f50f8a-4cd1-4cc0-b0c7-844ff6e2c39f/Django_Application_Development_with_SQL_and_Databases.png)  
-
 ---
 
 ## **Portfolio**  
