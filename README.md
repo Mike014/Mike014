@@ -52,16 +52,24 @@ Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for mor
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark&count_private=true)
 
-## 🔍 Top Languages in My Repositories
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=10)
-
 ## 📂 Forks and Open Source Contributions
+
 ### Stats for Forked Repositories
-![Forked Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mike014&repo=ihatemoney&theme=dark)
+[![Forked Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mike014&repo=ihatemoney&theme=dark)](https://github.com/Mike014/ihatemoney)
 
-#### Contributions Summary
-[![Code Frequency](https://img.shields.io/github/commit-activity/m/Mike014/ihatemoney?label=Commits%20per%20Month)](https://github.com/Mike014/ihatemoney)
+---
 
+### 🛠️ **Pull Requests and Contributions**
+
+#### **Pull Requests Accepted**
+[![PRs Accepted](https://img.shields.io/github/issues-pr-closed/Mike014/ihatemoney?label=Accepted%20PRs)](https://github.com/Mike014/ihatemoney/pulls?q=is%3Apr+is%3Aclosed)
+
+#### **Contributions Summary**
+[![Commits Per Month](https://img.shields.io/github/commit-activity/m/Mike014/ihatemoney?label=Commits%20per%20Month)](https://github.com/Mike014/ihatemoney)
+
+---
+
+### 📈 **Activity and Network**
 ![Fork Network](https://ghchart.rshah.org/Mike014)
 
 --- 
