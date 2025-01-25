@@ -39,42 +39,27 @@ Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for mor
 #### **iOS Development**
 - [**Morse Code Translator**](https://github.com/Mike014/MorseCodeTranslator): SwiftUI app translating text to Morse code.  
 
----
-
-## **Connect with Me**  
-
-- **GitHub**: [Mike014](https://github.com/Mike014)  
-- **LinkedIn**: [Michele Grimaldi](https://www.linkedin.com/in/michele-grimaldi-599b36280/)  
-- **Email**: [mikgrimaldi7@gmail.com](mailto:mikgrimaldi7@gmail.com)
-
-# My Open Source Contributions
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark&count_private=true)
-
 ## 📂 Forks and Open Source Contributions
 
 ### Stats for Forked Repositories
-[![Forked Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mike014&repo=ihatemoney&theme=dark)](https://github.com/Mike014/ihatemoney)
+[![Forked Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mike014&repo=ihatemoney&theme=dark&cacheSeconds=60)](https://github.com/Mike014/ihatemoney)
 
 ---
 
 ### 🛠️ **Pull Requests and Contributions**
 
-#### **Pull Requests Accepted**
-[![PRs Accepted](https://img.shields.io/github/issues-pr-closed/Mike014/ihatemoney?label=Accepted%20PRs)](https://github.com/Mike014/ihatemoney/pulls?q=is%3Apr+is%3Aclosed)
+#### **Pull Requests Created and Accepted**
+[![PRs Created and Accepted](https://img.shields.io/github/issues-pr-closed/mike014/ihatemoney?label=PRs%20Created%20%26%20Accepted&cacheSeconds=60)](https://github.com/Mike014/ihatemoney/pulls?q=is%3Apr+author%3AMike014+is%3Aclosed)
 
 #### **Contributions Summary**
-[![Commits Per Month](https://img.shields.io/github/commit-activity/m/Mike014/ihatemoney?label=Commits%20per%20Month)](https://github.com/Mike014/ihatemoney)
+[![Commits Per Month](https://img.shields.io/github/commit-activity/m/Mike014/ihatemoney?label=Commits%20per%20Month&cacheSeconds=60)](https://github.com/Mike014/ihatemoney)
 
 ---
 
 ### 📈 **Activity and Network**
+[![Contributions](https://img.shields.io/badge/Contributions-Tracked-blue?style=flat)](https://github.com/Mike014)
+
 ![Fork Network](https://ghchart.rshah.org/Mike014)
-
---- 
-
-
 
 
 
