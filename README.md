@@ -7,7 +7,7 @@
 # Hello, I'm Michele Grimaldi  
 ## Junior Back-End Developer  
 
-I’m a Back-End Developer with expertise in **Python**, **C++**, and web development frameworks like **Django** and **Flask**. I also specialize in **AI**, **NLP**, and cross-platform development.
+I’m a Back-End Developer with expertise in **Python**, **C++**, and web development frameworks like **Django** and **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
 
 ---
 
