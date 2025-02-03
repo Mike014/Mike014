@@ -7,7 +7,7 @@
 # Hello, I'm Michele Grimaldi  
 ## Python Developer  
 
-I’m a Python Developer with expertise in web and software development with frameworks like **Django**, **JUCE** **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
+I’m a Python Developer with expertise in web and software development with frameworks like **Django**, **JUCE**, **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
 
 ---
 
