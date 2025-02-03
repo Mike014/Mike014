@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/Mike014">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Back-End+Software+Developer;iOS+%7C+Web+%7C+AI+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Python+Developer;iOS+%7C+Web+%7C+AI+Development" alt="Typing SVG" />
 </a>
 </p>
 
 # Hello, I'm Michele Grimaldi  
-## Junior Back-End Developer  
+## Python Developer  
 
-I’m a Back-End Developer with expertise in **Python**, **C++**, and web development frameworks like **Django** and **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
+I’m a Python Developer with expertise in web and software development with frameworks like **Django**, **JUCE** **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
 
 ---
 
