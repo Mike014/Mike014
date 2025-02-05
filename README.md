@@ -14,7 +14,9 @@ I’m a Python Developer with expertise in web and software development with fra
 ## **Portfolio**  
 Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for more details about my work.  
 ##  **My Prompt Engineering Lab** on Hugging Face!
-- [Prompt Engineering Lab](https://huggingface.co/spaces/Mike014/PromptEngineeringLab), an interactive sandbox on Hugging Face Spaces, designed to test and refine prompts. 
+- [Prompt Engineering Lab](https://huggingface.co/spaces/Mike014/PromptEngineeringLab), an interactive sandbox on Hugging Face Spaces, designed to test and refine prompts.
+## My **Badges** on Credly
+- - [See my Badges](https://www.credly.com/users/michele-grimaldi.55d64591)
 ---
 
 ### **Key Skills**  
