@@ -40,8 +40,9 @@ Visit my [personal website](https://mike014.github.io/mike014Portfolio/) for mor
 - [**PCOptimizerAI**](https://github.com/Mike014/PCOptimizerAI): AI-driven system optimization tool for PC resources.  
 
 #### **iOS Development**
-- [**Morse Code Translator**](https://github.com/Mike014/MorseCodeTranslator): SwiftUI app translating text to Morse code.  
+- [**Morse Code Translator**](https://github.com/Mike014/MorseCodeTranslator): SwiftUI app translating text to Morse code.
 
+---
 
 
 
