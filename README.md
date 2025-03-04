@@ -7,7 +7,18 @@
 # Hello, I'm Michele Grimaldi  
 
 ## Python Developer 
-I’m a **Python Developer** with expertise in **AI Engineering**, **NLP**, and **back-end development**, as well as a specialization in **Sound Engineering**. Specialized in **Django**, **PostgreSQL**, **Docker**, and **Machine Learning**, he has worked as a **Prompt Engineer** for **Mistral Le Chat**, contributing to **DocsGPT** and the **NLTK library**. He has developed **AI-driven solutions** for model optimization with **RLHF**, built **NLP chatbots**, and **designed advanced audio systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. With a **strong background in spatial audio and DSP algorithms**, he has also **contributed as a sound designer** on titles like **Cookie Cutter**, and **other indie video games released on itch.io or steam**, **founded a small video game company BG Art House Studio**. Now is **currently exploring generative AI and deep learning**.
+La sintassi è in gran parte corretta, ma ci sono alcuni **errori minori** di grammatica e coerenza nel soggetto dei verbi. Qui sotto trovi la versione **corretta e migliorata** con una **struttura più fluida e coerente**.
+
+---
+
+## **Python Developer**  
+I’m a **Python Developer** with expertise in **AI Engineering, NLP, and back-end development**, as well as a specialization in **Sound Engineering**.  
+
+Skilled in **Django, PostgreSQL, Docker, and Machine Learning**, I worked as a **Prompt Engineer** for **Mistral Le Chat**, contributing to **DocsGPT** and the **NLTK library**. I developed **AI-driven solutions** for model optimization with **RLHF**, built **NLP chatbots**, and **designed advanced audio systems for video games** using **C++, JUCE, and Unreal Engine**.  
+
+With a **strong background in spatial audio and DSP algorithms**, I have also **contributed as a sound designer** on titles like **Cookie Cutter** and other **indie video games released on Itch.io and Steam**. Additionally, I **founded BG Art House Studio, a small video game company**.  
+
+I am currently exploring **generative AI and deep learning**.  
 
 ---
 
