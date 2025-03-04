@@ -7,7 +7,6 @@
 # Hello, I'm Michele Grimaldi  
 
 ## Python Developer 
-La sintassi è in gran parte corretta, ma ci sono alcuni **errori minori** di grammatica e coerenza nel soggetto dei verbi. Qui sotto trovi la versione **corretta e migliorata** con una **struttura più fluida e coerente**.
 
 ---
 
