@@ -5,9 +5,9 @@
 </p>
 
 # Hello, I'm Michele Grimaldi  
-## Python Developer  
 
-I’m a Python Developer with expertise in web and software development with frameworks like **Django**, **JUCE**, **Flask**. Working on my specialization in **AI**, **NLP**, and cross-platform development.
+## Python Developer 
+I’m a **Python Developer** with expertise in **AI Engineering**, **NLP**, and **back-end development**, as well as a specialization in **Sound Engineering**. Specialized in **Django**, **PostgreSQL**, **Docker**, and **Machine Learning**, he has worked as a **Prompt Engineer** for **Mistral Le Chat**, contributing to **DocsGPT** and the **NLTK library**. He has developed **AI-driven solutions** for model optimization with **RLHF**, built **NLP chatbots**, and **designed advanced audio systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. With a **strong background in spatial audio and DSP algorithms**, he has also **contributed as a sound designer** on titles like **Cookie Cutter** and is **currently exploring generative AI and deep learning**.
 
 ---
 
