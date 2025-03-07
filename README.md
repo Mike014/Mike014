@@ -6,8 +6,6 @@
 
 # Hello, I'm Michele Grimaldi  
 
-## Python Developer 
-
 ---
 
 ## **Python Developer**  
