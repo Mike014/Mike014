@@ -12,7 +12,7 @@
 
 I’m a **Python Developer** and **independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a strong foundation in **Sound Engineering and Technical Sound Design**.  
 
-After studying **Computer Science** and **Archaeology**, I shifted my focus, dedicating **three years to specializing in audio**—covering **Technical Sound Design, Sound Engineering, and Composition**. This led me to develop **advanced DSP algorithms, spatial audio, and AI-driven sound systems** for video games using **C++, JUCE, and Unreal Engine**. Later, I returned to **Computer Science**, obtaining certifications that reinforced and expanded my existing knowledge.  
+After initially pursuing studies in **Computer Science** and **Archaeology**, I decided to shift my focus, dedicating **three years to specializing in audio—covering Technical Sound Design, Sound Engineering, and Composition**. This led me to develop advanced **DSP algorithms**, **spatial audio**, and **AI-driven sound systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. Later, returned to Computer Science, **(obtaining certifications)[https://www.codecademy.com/profiles/Mike_014]** through CodeAcademy that **reinforced and expanded my existing knowledge**.
 
 ## **Work & Contributions**  
 - Working on **freelance projects as Prompt Engineer** for **Outlier.ai** and **Mindtel-Innodata**, where I still freelance, my most important project is **Mistral Le Chat** (Italian versione)
