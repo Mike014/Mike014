@@ -8,14 +8,28 @@
 
 ---
 
-## **Python Developer**  
-I’m a **Python Developer** with expertise in **AI Engineering, NLP, and back-end development**, as well as a specialization in **Sound Engineering**.  
+## **Python Developer & AI Researcher**  
 
-Skilled in **Django, PostgreSQL, Docker, and Machine Learning**, I worked as a **Prompt Engineer** for **Mistral Le Chat**, contributing to **DocsGPT** and the **NLTK library**. I developed **AI-driven solutions** for model optimization with **RLHF**, built **NLP chatbots**, and **designed advanced audio systems for video games** using **C++, JUCE, and Unreal Engine**.  
+I’m a **Python Developer** and **independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a strong foundation in **Sound Engineering and Technical Sound Design**.  
 
-With a **strong background in spatial audio and DSP algorithms**, I have also **contributed as a sound designer** on titles like **Cookie Cutter** and other **indie video games released on Itch.io and Steam**. Additionally, I **founded BG Art House Studio, a small video game company**.  
+After studying **Computer Science** and **Archaeology**, I shifted my focus, dedicating **three years to specializing in audio**—covering **Technical Sound Design, Sound Engineering, and Composition**. This led me to develop **advanced DSP algorithms, spatial audio, and AI-driven sound systems** for video games using **C++, JUCE, and Unreal Engine**. Later, I returned to **Computer Science**, obtaining certifications that reinforced and expanded my existing knowledge.  
 
-I am currently exploring **generative AI and deep learning**.  
+## **🛠 Work & Contributions**  
+- **Prompt Engineer at Mistral Le Chat** – Contributed to **DocsGPT** and the **NLTK library**.  
+- Developed **AI-driven solutions for model optimization with RLHF**.  
+- Built **NLP chatbots** and **interactive AI-powered audio systems**.  
+- Designed **advanced spatial audio and DSP algorithms** for video games.  
+- **Sound Designer for Cookie Cutter** and other **indie titles on Itch.io and Steam**.  
+- **Founder of BG Art House Studio**, an indie game company.  
+
+## **🔬 AI Research & Neural Memory Systems**  
+My research focuses on **AI memory structures**, exploring how neural networks can develop **long-term memory systems** inspired by human cognition. I’ve published independent studies on **Zenodo**, proposing models that integrate **working memory, short-term, and long-term memory** into AI architectures.  
+
+I have also released two major AI research projects on **Ready Tensor Inc**:  
+- **🧠 NoVa** – A deep dive into **ChatGPT-like models**, analyzing their internal mechanisms and proposing structural improvements.  
+- **🎵 Omnia** – An **auditory neural network**, extending AI cognition into **sound-based perception**, complementing my research on **memory and sensory-driven AI learning**.  
+
+I am currently exploring **generative AI and deep learning**, advancing my work in **AI cognition, neural architectures, and memory-inspired learning**, aiming to bridge **intelligence, creativity, and human-like memory systems** through **research, development, and open-source contributions**.
 
 ---
 
