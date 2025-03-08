@@ -38,8 +38,10 @@ After studying **Computer Science** and **Archaeology**, I shifted my focus, ded
   - [Concepts related to audio physics, musical harmony.](https://www.youtube.com/watch?v=sQ9MVQWB868&list=PLgKASgLUSpNbvO4I4iia5Czahy57vtG5R)
   - [Showcase of my artistic-technical-audio skills](https://www.youtube.com/watch?v=VsgEQlxeEZ8&list=PLgKASgLUSpNaUfSrkMirwRU2skzNGbnRs)
 - **[Founder of BG Art House Studio](https://bg-arthouse.com/about-us/)**, an indie game company. (I stepped down from the company I founded shortly after.)
-- I also collaborated as a **Beta Tester for Ableton Live 12**, providing feedback on the integrated **spatial audio**, similar to that of Nuendo 12, through the beta testing platform.
-- 
+- Collaborated as a **Beta Tester for Ableton Live 12**, providing feedback on the integrated **spatial audio**, similar to that of Nuendo 12, through the beta testing platform.
+- Worked as a **freelance journalist**, publishing **(two articles)** in the video game industry.
+   - [First](https://www.icrewplay.com/bethesda-presente-alla-milan-games-week-2023/)
+   - [Second](https://www.icrewplay.com/yu-gi-oh-duel-links-gr-festval-celebration-campaign/)
 ## **AI Research & Neural Memory Systems**  
 My research focuses on **[AI memory structures](https://github.com/Mike014/Memory_Augmented_AI)**, exploring how neural networks can develop **long-term memory systems** inspired by human cognition. I’ve published independent studies on **Zenodo**, proposing models that integrate **working memory, short-term, and long-term memory** into AI architectures.  
 
