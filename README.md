@@ -68,12 +68,12 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 ### **Key Skills**  
 
 #### **Programming Languages**  
-- **Python**, **C++**, SQL, Bash  
+- **Python**, **C++**
 
 #### **Frameworks & Libraries**  
 - **Django**, Flask 
 - **JUCE** (C++ Audio Framework)  
-- **PyTorch**, TensorFlow, Keras  
+- **PyTorch**, TensorFlow, **Keras**
 
 #### **AI & Machine Learning**  
 - **Natural Language Processing (NLP)**: NLTK, Hugging Face Transformers  
