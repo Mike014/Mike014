@@ -21,7 +21,7 @@ After initially pursuing studies in **Computer Science** and **Archaeology**, I 
 - Built **NLP chatbots**
    - [SoundBot](https://github.com/Mike014/SoundBot)
    - [Chatbot_app](https://github.com/Mike014/Chatbot_App)
-- **Interactive AI-powered audio systems**.
+- **AI app powered e app audio**.
    - [Pink Noise Generator](https://github.com/Mike014/Pink-Noise-Website)
    - [Audio Classification](https://github.com/Mike014/Audio-Classification)
    - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor)
