@@ -42,6 +42,7 @@ After studying **Computer Science** and **Archaeology**, I shifted my focus, ded
 - Worked as a **freelance journalist**, publishing **(two articles)** in the video game industry.
    - [First](https://www.icrewplay.com/bethesda-presente-alla-milan-games-week-2023/)
    - [Second](https://www.icrewplay.com/yu-gi-oh-duel-links-gr-festval-celebration-campaign/)
+- [Freelance developer](https://www.upwork.com/freelancers/~01a70267a59add4e6a), working on contract or occasional projects.
 ## **AI Research & Neural Memory Systems**  
 My research focuses on **[AI memory structures](https://github.com/Mike014/Memory_Augmented_AI)**, exploring how neural networks can develop **long-term memory systems** inspired by human cognition. I’ve published independent studies on **Zenodo**, proposing models that integrate **working memory, short-term, and long-term memory** into AI architectures.  
 
