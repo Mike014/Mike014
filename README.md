@@ -34,7 +34,7 @@ After initially pursuing studies in **Computer Science** and **Archaeology**, I 
    - [Collaborations 2](https://lucabrunetti.itch.io/xenolith)
    - [Collaborations 3](https://lucabrunetti.itch.io/ninja-pizza-and-the-lost-pineapple-sauce-version-xxl-turbo-italian-edition-2)
 - I've written music for bands and for personal projects, released on platforms like [Bandcamp](https://michelegrimaldi014.bandcamp.com/).
-- I conducted audio research for my former academy, Mas Academy, which was published on YouTube and used in real-world projects and internships.
+- I conducted audio research for my former academy, [Mas Academy](https://drive.google.com/file/d/1uCXQlFRBgPy69P4dk_NHmG1Ye0-XswCk/view), which was published on YouTube and used in real-world projects and internships.
   - [Concepts related to audio physics, musical harmony.](https://www.youtube.com/watch?v=sQ9MVQWB868&list=PLgKASgLUSpNbvO4I4iia5Czahy57vtG5R)
   - [Showcase of my artistic-technical-audio skills](https://www.youtube.com/watch?v=VsgEQlxeEZ8&list=PLgKASgLUSpNaUfSrkMirwRU2skzNGbnRs)
 - **[Founder of BG Art House Studio](https://bg-arthouse.com/about-us/)**, an indie game company. (I stepped down from the company I founded shortly after.)
