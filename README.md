@@ -15,15 +15,31 @@ I’m a **Python Developer** and **independent AI Researcher**, specializing in 
 After studying **Computer Science** and **Archaeology**, I shifted my focus, dedicating **three years to specializing in audio**—covering **Technical Sound Design, Sound Engineering, and Composition**. This led me to develop **advanced DSP algorithms, spatial audio, and AI-driven sound systems** for video games using **C++, JUCE, and Unreal Engine**. Later, I returned to **Computer Science**, obtaining certifications that reinforced and expanded my existing knowledge.  
 
 ## **🛠 Work & Contributions**  
-- **Prompt Engineer at Mistral Le Chat** – Contributed to **DocsGPT** and the **NLTK library**.  
+- **Prompt Engineer at Mistral Le Chat** – Contributed to **[DocsGPT](https://github.com/arc53/DocsGPT/issues/1445)** and the **[NLTK library](https://github.com/nltk/nltk/pull/3364)**.  
 - Developed **AI-driven solutions for model optimization with RLHF**.  
-- Built **NLP chatbots** and **interactive AI-powered audio systems**.  
-- Designed **advanced spatial audio and DSP algorithms** for video games.  
-- **Sound Designer for Cookie Cutter** and other **indie titles on Itch.io and Steam**.  
-- **Founder of BG Art House Studio**, an indie game company.  
+- Built **NLP chatbots**
+   - [SoundBot](https://github.com/Mike014/SoundBot)
+   - [Chatbot_app](https://github.com/Mike014/Chatbot_App)
+- **Interactive AI-powered audio systems**.
+   - [Pink Noise Generator](https://github.com/Mike014/Pink-Noise-Website)
+   - [Audio Classification](https://github.com/Mike014/Audio-Classification)
+   - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor)
+   - [Low Pass Filter app](https://github.com/Mike014/Low-Pass-Filter-Application)
+   - [Audio Transcription](https://github.com/Mike014/Audio-Transcription)
+- Designed **[advanced spatial audio and DSP algorithms](https://github.com/Mike014/My-Cpp-Codes-For-UnrealEngine)** for video games.  
+- **Sound Designer for Cookie Cutter** and other **indie titles on Itch.io and Steam**.
+   - [itch.io games](https://m1k3-s0und.itch.io/)
+   - [Collaborations 1](https://sephuni.itch.io/cats-craving)
+   - [Collaborations 2](https://lucabrunetti.itch.io/xenolith)
+   - [Collaborations 3](https://lucabrunetti.itch.io/ninja-pizza-and-the-lost-pineapple-sauce-version-xxl-turbo-italian-edition-2)
+- I've written music for bands and for personal projects, released on platforms like [Bandcamp](https://michelegrimaldi014.bandcamp.com/).
+- **[Founder of BG Art House Studio](https://bg-arthouse.com/about-us/)**, an indie game company. (I stepped down from the company I founded shortly after.)
 
 ## **🔬 AI Research & Neural Memory Systems**  
-My research focuses on **AI memory structures**, exploring how neural networks can develop **long-term memory systems** inspired by human cognition. I’ve published independent studies on **Zenodo**, proposing models that integrate **working memory, short-term, and long-term memory** into AI architectures.  
+My research focuses on **[AI memory structures](https://github.com/Mike014/Memory_Augmented_AI)**, exploring how neural networks can develop **long-term memory systems** inspired by human cognition. I’ve published independent studies on **Zenodo**, proposing models that integrate **working memory, short-term, and long-term memory** into AI architectures.  
+
+- [First Research on Zenodo](https://zenodo.org/records/14976723)
+- [Second Research on Zenodo](https://zenodo.org/records/14988996)
 
 I have also released two major AI research projects on **Ready Tensor Inc**:  
 - **🧠 NoVa** – A deep dive into **ChatGPT-like models**, analyzing their internal mechanisms and proposing structural improvements.  
