@@ -16,7 +16,7 @@ After initially pursuing studies in **Computer Science** and **Archaeology**, I 
 
 ## **Work & Contributions**  
 - Working on **freelance projects as Prompt Engineer** for **Outlier.ai** and **Mindtel-Innodata**, where I still freelance, my most important project is **Mistral Le Chat** (Italian version)
-– Contributed to **[DocsGPT](https://github.com/arc53/DocsGPT/issues/1445)** and the **[NLTK library](https://github.com/nltk/nltk/pull/3364)**.  
+– Contributed to **[DocsGPT](https://github.com/arc53/DocsGPT/pull/1603)** and the **[NLTK library](https://github.com/nltk/nltk/pull/3364)**.  
 - Developed **AI-driven solutions for model optimization with RLHF**.  
 - Built **NLP chatbots**
    - [SoundBot](https://github.com/Mike014/SoundBot)
