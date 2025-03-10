@@ -94,7 +94,8 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 - **Digital Signal Processing (DSP)**  
 - **Spatial Audio & 3D Sound Design**  
 - **Game Audio Implementation** (Wwise, Unreal Engine)  
-- **Music Composition & Sound Synthesis**  
+- **Music Composition & Sound Synthesis**
+- **DAW** (Ableton Live, Steinberg Nuendo,IzotopeRX)
 
 #### **DevOps & Tools**  
 - **Docker**
