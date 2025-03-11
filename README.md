@@ -57,6 +57,7 @@ I have also released two major AI research projects on **Ready Tensor Inc**:
 These are some of **my articles exploring the world of Deep Learning**, but also expanding into broader themes such as **philosophy, quantum physics, love, and more.**
 - [First](https://medium.com/@mikgrimaldi7/neural-network-training-process-cbaaf4185cb1)
 - [Second](https://medium.com/@mikgrimaldi7/the-quantum-twin-soul-paradox-between-chance-and-fate-in-the-multiverse-cfb743fc3d6c)
+- [Third](https://medium.com/@mikgrimaldi7/the-illusion-of-understanding-in-ai-5888f39ac19f)
 
 I am currently exploring **[generative AI and deep learning](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects)**, advancing my work in **AI cognition, neural architectures, and memory-inspired learning**, aiming to bridge **intelligence, creativity, and human-like memory systems** through **research, development, and open-source contributions**.
 
