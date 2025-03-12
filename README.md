@@ -60,6 +60,7 @@ My research focuses on **[AI memory structures](https://github.com/Mike014/Memor
 I have also released two major AI research projects on **Ready Tensor Inc**:  
 - **[NoVa](https://app.readytensor.ai/publications/nova-a-personalized-ai-assistant-for-autonomous-agentic-interaction-GyV7qnYs2Bsc)** – A deep dive into **ChatGPT-like models**, analyzing their internal mechanisms and proposing structural improvements.  
 - **[Omnia](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4)** – An **auditory neural network**, extending AI cognition into **sound-based perception**, complementing my research on **memory and sensory-driven AI learning**.
+- You can find further publications [here](https://app.readytensor.ai/users/mikgrimaldi7).
 
 These are some of **[my articles](https://medium.com/@mikgrimaldi7) exploring the world of Deep Learning**, but also expanding into broader themes such as **philosophy, quantum physics, love, and more.**
 
