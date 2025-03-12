@@ -8,12 +8,18 @@
 
 ---
 
-## **Python Developer & AI Researcher**  
+### **Python Developer & AI Researcher**  
+I am a **Python Developer and independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a **strong foundation in Sound Engineering and Technical Sound Design**.   
 
-I’m a **Python Developer** and **independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a strong foundation in **Sound Engineering and Technical Sound Design**.  
+Initially, I pursued studies in **Computer Science and Archaeology**, but my curiosity and passion for technology led me to specialize in **audio and DSP algorithms**. Over three years, I focused on            **[Technical Sound Design, Sound Engineering, and Composition](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)**. This led me to develop advanced **DSP algorithms**, **spatial audio**, and **AI-driven sound systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. 
 
-After initially pursuing studies in **Computer Science** and **Archaeology**, I decided to shift my focus, dedicating **three years to specializing in audio—covering [Technical Sound Design, Sound Engineering, and Composition](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)**. This led me to develop advanced **DSP algorithms**, **spatial audio**, and **AI-driven sound systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. Later, returned to Computer Science, **[obtaining certifications](https://www.codecademy.com/profiles/Mike_014)** through CodeAcademy that **reinforced and expanded my existing knowledge**.
-Given my early, unfinished studies related to **archaeology**, studying **Greek culture from its dawn**, the **architecture of the past including the ancient Egyptians**, I have maintained this passion by merging it with the passion for **physics** and **philosophy**, recently I began studying the Coursera course, **[Question Reality! Science, philosophy, a search for meaning Specialization](https://github.com/Mike014/Question_Reality)**. Regardless of my specialization in AI Engineering.
+Later, I returned to **Computer Science**, obtaining certifications through **[CodeAcademy](https://www.codecademy.com/profiles/Mike_014)**, reinforcing and expanding my expertise in **AI and machine learning**.
+
+However, my early studies in **archaeology and ancient cultures—Greek philosophy, Egyptian architecture—never left me**. I have continuously merged this passion with my growing interest in **physics, philosophy, and the fundamental nature of reality**, leading me to explore **[Question Reality! Science, philosophy, a search for meaning Specialization](https://github.com/Mike014/Question_Reality)**.
+
+This **multidisciplinary approach** allows me to tackle **AI research with a broader, more philosophical perspective**, integrating insights from **history, cognition, and theoretical sciences** to push the boundaries of what AI can become.  
+
+---
 
 ## **Work & Contributions**  
 - Working on **freelance projects as Prompt Engineer** for **Outlier.ai** and **Mindtel-Innodata**, where I still freelance, my most important project is **Mistral Le Chat** (Italian version)
