@@ -62,7 +62,7 @@ I have also released two major AI research projects on **Ready Tensor Inc**:
 - **[Omnia](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4)** – An **auditory neural network**, extending AI cognition into **sound-based perception**, complementing my research on **memory and sensory-driven AI learning**.
 - You can find further publications [here](https://app.readytensor.ai/users/mikgrimaldi7).
 
-These are some of **[my articles](https://medium.com/@mikgrimaldi7) exploring the world of Deep Learning**, but also expanding into broader themes such as **philosophy, quantum physics, love, and more.**
+These are some of **[my scientific articles](https://medium.com/@mikgrimaldi7) on Medium exploring the world of Deep Learning**, but also expanding into broader themes such as **philosophy, quantum physics, love, and more.**
 
 I am currently exploring **[generative AI and deep learning](https://github.com/Mike014/My_AI_Engineer_Portfolio_Projects)**, advancing my work in **AI cognition, neural architectures, and memory-inspired learning**, aiming to bridge **intelligence, creativity, and human-like memory systems** through **research, development, and open-source contributions**.
 
