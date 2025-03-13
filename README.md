@@ -8,7 +8,7 @@
 
 ---
 
-### **Python Developer & AI Researcher**  
+### **Python Developer & AI Independent Researcher**  
 I am a **Python Developer and independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a **strong foundation in Sound Engineering and Technical Sound Design**.   
 
 Initially, I pursued studies in **Computer Science and Archaeology**, but my curiosity and passion for technology led me to specialize in **audio and DSP algorithms**. Over three years, I focused on            **[Technical Sound Design, Sound Engineering, and Composition](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)**. This led me to develop advanced **DSP algorithms**, **spatial audio**, and **AI-driven sound systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. 
