@@ -87,7 +87,7 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 
 #### **AI & Machine Learning**  
 - **Natural Language Processing (NLP)**: NLTK, Hugging Face Transformers  
-- **Deep Learning**: **LSTMs**, **CNNs**, **Transformers**, **DRL**, **RLHF** (Reinforcement Learning from Human Feedback)  
+- **Deep Learning Architectures**: **LSTMs**, **CNNs**, **Transformers**, **DRL**, **RLHF** (Reinforcement Learning from Human Feedback)  
 - **AI Memory Systems**: Elastic Weight Consolidation (**EWC**), Continual Learning  
 - **Prompt Engineering** & Large Language Models (LLMs)  
 - **Generative AI** & Multi-Modal AI  
