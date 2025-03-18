@@ -97,7 +97,7 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 
 #### **Web Development & Backend**  
 - **PostgreSQL**, **SQLite**  
-- **Docker**, **FastAPI**  
+- **Docker**
 - **CI/CD Pipelines**, **GitHub Actions**  
 
 #### **Audio & DSP Engineering**  
