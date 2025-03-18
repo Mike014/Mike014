@@ -78,36 +78,39 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 ### **Key Skills**  
 
 #### **Programming Languages**  
-- **Python**, **C++**
+- **Python**, **C++**  
 
 #### **Frameworks & Libraries**  
-- **Django**, Flask 
+- **Django**, **Flask**  
 - **JUCE** (C++ Audio Framework)  
-- **TensorFlow**, **Keras**, **Smolagents** (From Hugging Face)
+- **TensorFlow**, **Keras**, **SmolAgents** (Hugging Face)  
+- **Stable-Baselines3**  
 
 #### **AI & Machine Learning**  
-- **Natural Language Processing (NLP)**: NLTK, Hugging Face Transformers  
-- **Deep Learning Architectures**: **LSTMs**, **CNNs**, **Transformers**, **DRL**, **RLHF** (Reinforcement Learning from Human Feedback)  
-- **AI Memory Systems**: Elastic Weight Consolidation (**EWC**), Continual Learning  
+- **Natural Language Processing (NLP)**: **NLTK**, **Hugging Face Transformers**
+- **Deep Learning Architectures**: **LSTMs**, **CNNs**, **Transformers**, **Reinforcement Learning (RL)**, **DRL**, **RLHF**  
+- **Reinforcement Learning Frameworks**: **Stable-Baselines3** 
+- **AI Memory Systems**: **Elastic Weight Consolidation (EWC)**, **Continual Learning**  
+- **AI Agents**: **SmolAgents**
 - **Prompt Engineering** & Large Language Models (LLMs)  
 - **Generative AI** & Multi-Modal AI  
 
 #### **Web Development & Backend**  
-- **PostgreSQL**, SQLite  
-- **Docker** 
-- **CI/CD Pipelines**, GitHub Actions  
+- **PostgreSQL**, **SQLite**  
+- **Docker**, **FastAPI**  
+- **CI/CD Pipelines**, **GitHub Actions**  
 
 #### **Audio & DSP Engineering**  
 - **Digital Signal Processing (DSP)**  
 - **Spatial Audio & 3D Sound Design**  
-- **Game Audio Implementation** (Wwise, Unreal Engine)  
-- **Music Composition & Sound Synthesis**
-- **DAW** (Ableton Live, Steinberg Nuendo, IzotopeRX)
+- **Game Audio Implementation** (**Wwise**, **Unreal Engine**)  
+- **Music Composition & Sound Synthesis**  
+- **DAW** (Ableton Live, Steinberg Nuendo, Izotope RX)  
 
 #### **DevOps & Tools**  
-- **Docker**
-- **Git**, GitHub
-- **Linux Administration**, Shell Scripting  
+- **Docker**, **Linux Administration**  
+- **Git**, **GitHub**, **Shell Scripting**  
+- **Jupyter Notebook**, **Colab**
 
 ---
 
