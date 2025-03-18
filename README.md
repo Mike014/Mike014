@@ -83,7 +83,7 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 #### **Frameworks & Libraries**  
 - **Django**, Flask 
 - **JUCE** (C++ Audio Framework)  
-- **TensorFlow**, **Keras**
+- **TensorFlow**, **Keras**, **Smolagents** (From Hugging Face)
 
 #### **AI & Machine Learning**  
 - **Natural Language Processing (NLP)**: NLTK, Hugging Face Transformers  
