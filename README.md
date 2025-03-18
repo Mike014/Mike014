@@ -88,7 +88,7 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 
 #### **AI & Machine Learning**  
 - **Natural Language Processing (NLP)**: **NLTK**, **Hugging Face Transformers**
-- **Deep Learning Architectures**: **LSTMs**, **CNNs**, **Transformers**, **Reinforcement Learning (RL)**, **DRL**, **RLHF**  
+- **Deep Learning Architectures**: **LSTMs**, **CNNs**, **Transformer**, **Reinforcement Learning (RL)**, **DRL**, **RLHF**  
 - **Reinforcement Learning Frameworks**: **Stable-Baselines3** 
 - **AI Memory Systems**: **Elastic Weight Consolidation (EWC)**, **Continual Learning** , **Transformers with Self-Attention**
 - **AI Agents**: **SmolAgents**
