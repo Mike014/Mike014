@@ -17,7 +17,7 @@ Later, I returned to **Computer Science**, obtaining certifications through **[C
 
 However, my early studies in **archaeology and ancient cultures—Greek philosophy, Egyptian architecture—never really left me**. I’ve continued to weave them into my growing curiosity for **physics, philosophy, and the fundamental nature of reality**, which often drives me to **dig deeper into original sources—academic papers, written articles, primary research**—and to **connect ideas across different perspectives**. 
 
-This **multidisciplinary approach** allows me to tackle **AI research with a broader, more philosophical perspective**, integrating insights from **history, cognition, and theoretical sciences** to push the boundaries of what AI can become.  
+This **multidisciplinary lens** lets me approach **AI** **not** just as a **tool**, but as a **reflection of deeper human questions—merging cognition, history, and theoretical sciences** to explore what AI can truly become.
 
 ---
 
