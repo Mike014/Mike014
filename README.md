@@ -4,8 +4,6 @@
 </a>
 </p>
 # FightForLove
-# Hello, I'm Michele Grimaldi  
-
 ---
 
 ### **Python Developer & AI Independent Researcher**  
