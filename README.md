@@ -4,6 +4,7 @@
 </a>
 </p>
 # FightForLove
+
 ---
 
 ### **Python Developer & AI Independent Researcher**  
