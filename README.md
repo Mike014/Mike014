@@ -35,7 +35,7 @@ This **multidisciplinary lens** lets me approach **AI** **not** just as a **tool
    - [Audio Sample Editor](https://github.com/Mike014/Audio-Sample-Editor)
    - [Low Pass Filter app](https://github.com/Mike014/Low-Pass-Filter-Application)
    - [Audio Transcription](https://github.com/Mike014/Audio-Transcription)
-- Designed **[advanced spatial audio and DSP algorithms](https://github.com/Mike014/My-Cpp-Codes-For-UnrealEngine)** for video games. Some of these algorithms were used as the basis for Spatial Audio for the [unDAW project](https://github.com/Amir-BK/unDAW) [Screenshot](https://www.linkedin.com/posts/michele-grimaldi-599b36280_unrealengine-audioprogramming-gameaudio-activity-7208839650864443393-hO3M?utm_source=share&utm_medium=member_android&rcm=ACoAAESC4sUBor13UtZCF3fL54mDzpouFhn7Vvk)
+- Designed **[advanced spatial audio and DSP algorithms](https://github.com/Mike014/My-Cpp-Codes-For-UnrealEngine)** for video games. Some of these algorithms were used as the basis for Spatial Audio for the [unDAW project](https://github.com/Amir-BK/unDAW) [Screenshot](https://drive.google.com/file/d/1DEPO21ls2rcyjftssjpPB4dhlq--IGfV/view?pli=1)
 - **Sound Designer for Cookie Cutter** and other **indie titles on Itch.io and Steam**. My **collaborative experiences include participation in Game Jams** and **voluntary projects**, notably a collaboration with fellow freelancers. We established a Discord group, **Remote Access Games**, which, despite being discontinued due to divergent member perspectives, serves as a significant [portfolio piece](https://www.youtube.com/watch?v=Z8RWcV3Oncs&list=PLgKASgLUSpNaUfSrkMirwRU2skzNGbnRs&index=2).
    - [itch.io games](https://m1k3-s0und.itch.io/)
    - [Collaborations 1](https://sephuni.itch.io/cats-craving)
