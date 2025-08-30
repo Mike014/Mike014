@@ -16,10 +16,6 @@ Initially, I pursued studies in **Computer Science and Archaeology**, but my cur
 
 Later, I returned to **Computer Science**, obtaining certifications through **[CodeAcademy](https://www.codecademy.com/profiles/Mike_014)**, reinforcing and expanding my expertise in **AI and machine learning**.
 
-However, my early studies in **archaeology and ancient cultures—Greek philosophy, Egyptian architecture—never really left me**. I’ve continued to weave them into my growing curiosity for **physics, philosophy, and the fundamental nature of reality**, which often drives me to **dig deeper into original sources—academic papers, written articles, primary research**—and to **connect ideas across different perspectives**. 
-
-This **multidisciplinary lens** lets me approach **AI** **not** just as a **tool**, but as a **reflection of deeper human questions—merging cognition, history, and theoretical sciences** to explore what AI can truly become.
-
 ---
 
 ## **Work & Contributions**  
