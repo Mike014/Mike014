@@ -69,7 +69,7 @@ I am currently exploring **[generative AI and deep learning](https://github.com/
 - [Prompt Engineering Lab](https://huggingface.co/spaces/Mike014/PromptEngineeringLab), an interactive sandbox on Hugging Face Spaces, designed to test and refine prompts.
 ## My **Badges** on Credly
 - [See my Badges](https://www.credly.com/users/michele-grimaldi.55d64591)
-- [These are all my certifications](https://www.linkedin.com/in/michele-grimaldi-599b36280/details/certifications/) (some ongoing), acquired throughout my career, in addition to my incomplete university studies. The links are accessible with an active LinkedIn profile.
+- [These are all my certifications](https://www.linkedin.com/in/michele-g-39a80b248/details/certifications/) (some ongoing), acquired throughout my career, in addition to my incomplete university studies. The links are accessible with an active LinkedIn profile.
 ---
 
 ### **Key Skills**  
