@@ -41,7 +41,7 @@ Later, I returned to **Computer Science**, obtaining certifications through **[C
 - I conducted audio research for my former academy, [Mas Academy](https://drive.google.com/file/d/1uCXQlFRBgPy69P4dk_NHmG1Ye0-XswCk/view), which was published on YouTube and used in real-world projects and internships.
   - [Concepts related to audio physics, musical harmony.](https://www.youtube.com/watch?v=sQ9MVQWB868&list=PLgKASgLUSpNbvO4I4iia5Czahy57vtG5R)
   - [Showcase of my artistic-technical-audio skills](https://www.youtube.com/watch?v=VsgEQlxeEZ8&list=PLgKASgLUSpNaUfSrkMirwRU2skzNGbnRs)
-- **[Founder of BG Art House Studio](https://bg-arthouse.com/about-us/)**, an indie game company. (I stepped down from the company I founded shortly after.)
+- **[Founder of BG Art House Studio](https://www.instagram.com/bg_arthouse/)**, an indie game company. (I stepped down from the company I founded shortly after.)
 - Collaborated as a **Beta Tester for Ableton Live 12**, providing feedback on the integrated **spatial audio**, similar to that of Nuendo 12, through the beta testing platform.
 - Worked as a **freelance journalist**, publishing **(two articles)** in the video game industry.
    - [First](https://www.icrewplay.com/bethesda-presente-alla-milan-games-week-2023/)
