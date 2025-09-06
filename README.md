@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Mike014" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Python+Developer+and+AI+Independent+Researcher;iOS+%7C+Web+%7C+AI+Development"
+      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Python+Developer;iOS+%7C+Web+%7C+AI+Development"
       alt="Typing SVG"
     />
   </a>
@@ -9,12 +9,12 @@
 
 ---
 
-### **Python Developer & AI Independent Researcher**  
-I am a **Python Developer and independent AI Researcher**, specializing in **AI Engineering, NLP, and Deep Learning**, with a **strong foundation in Sound Engineering and Technical Sound Design**.   
+### **AI & Audio Researcher · Python Developer**  
+**Python Developer** specializing in **AI Engineering**, **NLP**, and **Deep Learning**, with expertise in **game audio** and **DSP algorithms**.
 
-Initially, I pursued studies in **Computer Science and Archaeology**, but my curiosity and passion for technology led me to specialize in **audio and DSP algorithms**. Over three years, I focused on            **[Technical Sound Design, Sound Engineering, and Composition](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)**. This led me to develop advanced **DSP algorithms**, **spatial audio**, and **AI-driven sound systems for video games** using **C++**, **JUCE**, and **Unreal Engine**. 
+I build AI-driven sound systems, **spatial audio**, and **[procedural audio](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)** tools using **Python**, **C++**, **JUCE**, and **Unreal Engine**. My work ranges from neural networks for audio processing to real-time game-audio integration in engine.
 
-Later, I returned to **Computer Science**, obtaining certifications through **[CodeAcademy](https://www.codecademy.com/profiles/Mike_014)**, reinforcing and expanding my expertise in **AI and machine learning**.
+Later, I returned to **Computer Science**, earning certifications through **[Codecademy](https://www.codecademy.com/profiles/Mike_014)**, reinforcing and expanding my expertise in **AI** and **machine learning**.
 
 ---
 
