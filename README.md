@@ -12,7 +12,7 @@
 ### **AI & Audio Researcher · Python Developer**  
 **Python Developer** specializing in **AI Engineering**, **NLP**, and **Deep Learning**, with expertise in **game audio** and **DSP algorithms**.
 
-I build AI-driven sound systems, **spatial audio**, and **[procedural audio](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)** tools using **Python**, **C++**, **JUCE**, and **Unreal Engine**. My work ranges from neural networks for audio processing to real-time game-audio integration in engine.
+I build AI-driven sound systems, **[spatial audio, and procedural audio](https://drive.google.com/file/d/1cD3XXjNbSOPa6yLIrKldATM5bH1HIEbQ/view?usp=sharing)** tools using **Python**, **C++**, **JUCE**, and **Unreal Engine**. My work ranges from neural networks for audio processing to real-time game-audio integration in engine.
 
 Later, I returned to **Computer Science**, earning certifications through **[Codecademy](https://www.codecademy.com/profiles/Mike_014)**, reinforcing and expanding my expertise in **AI** and **machine learning**.
 
