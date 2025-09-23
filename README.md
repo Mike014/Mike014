@@ -10,9 +10,7 @@
 ---
 
 ### **AI Engineer & Technical Audio Developer**
-
-I’m Michele Grimaldi, a multidisciplinary **Python/C++ developer** and **AI researcher** with a passion for **game audio, DSP, and machine learning**.  
-I design **AI-driven sound systems, spatial DSP, and backend applications**, combining creative audio with technical engineering.  
+AI Engineer & Technical Audio Developer with experience in **game development and machine learning**.
 
 🔗 **Portfolio Website** → [mike014.github.io/michele-portfolio](https://mike014.github.io/michele-portfolio/index.html)
 
