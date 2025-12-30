@@ -9,8 +9,7 @@
 
 ---
 
-### **AI Engineer & Technical Audio Developer**
-AI Engineer & Technical Audio Developer with experience in **game development and machine learning**.
+### **Unity Developer | C#, C++, Python | Sound Designer | Audio Programmer**
 
 🔗 **Portfolio Website** → [mike014.github.io/michele-portfolio](https://mike014.github.io/michele-portfolio/index.html)
 
