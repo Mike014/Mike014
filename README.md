@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Mike014" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;AI+Engineer+%26+Technical+Audio+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Unity+Developer+%26+Audio+Programmer"
       alt="Typing SVG"
     />
   </a>
