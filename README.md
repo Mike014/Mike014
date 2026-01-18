@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Mike014" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Unity+Developer+%26+Audio+Programmer"
+      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Audio+Programmer+%26+Game+Developer"
       alt="Typing SVG"
     />
   </a>
@@ -9,51 +9,67 @@
 
 ---
 
-### **Unity Developer | C#, C++, Python | Sound Designer | Audio Programmer**
+## **About Me**
 
-🔗 **Portfolio Website** → [mike014.github.io/michele-portfolio](https://mike014.github.io/michele-portfolio/index.html)
+Audio Programmer specializing in game development and XR/VR systems. Currently completing a Master's in Game Development at **Epicode** (finishing March 2026), with 3+ years of experience in game audio, sound design, and interactive systems.
 
----
+I bridge creative audio design with technical implementation—building scalable audio architectures, procedural systems, and interactive audio that responds to gameplay.
 
-## **Work & Contributions**
-- **AI & NLP** → Freelance projects with **Outlier.ai** & **Mindtel**, contributed to **DocsGPT** and the **NLTK library**.  
-- **AI Projects** → [NoVa](https://app.readytensor.ai/publications/nova-a-personalized-ai-assistant-for-autonomous-agentic-interaction-GyV7qnYs2Bsc), [OMNIA](https://app.readytensor.ai/publications/omnia-hybrid-autoencoder-for-audio-spectrogram-reconstruction-and-enhancement-kZXyHHNcIvf4), [SoundBot](https://github.com/Mike014/SoundBot).  
-- **Game Audio** → Sound Designer & Audio Programmer for **Cookie Cutter**, **Cat’s Craving**, **Project Librarian**, and multiple Game Jam titles on [Itch.io](https://m1k3-s0und.itch.io/).  
-- **Software & Tools** → [Pink Noise Generator](https://github.com/Mike014/Pink-Noise-Website), [Audio Classification](https://github.com/Mike014/Audio-Classification), [Transcription](https://github.com/Mike014/Audio-Transcription), [Unreal C++ Experiments](https://github.com/Mike014/My-Cpp-Codes-For-UnrealEngine).  
-- **Music** → Electronic IDM/EDM producer on [Bandcamp](https://michelegrimaldi014.bandcamp.com/) and [YouTube](https://www.youtube.com/@AuTomA_014).  
-
----
-
-## **Research & Writing**
-- **AI Memory Systems** → Independent studies on **Zenodo**, exploring **long-term memory in neural networks**.  
-- **Publications** → Articles on **ReadyTensor**, essays on **Medium** about AI, cognition, and creativity.  
-- Member of **Atlas Research**, working on adaptive memory architectures for AI.  
+**Current Focus:**
+- 🎮 Game Audio Programming (Wwise, spatial audio, interactive systems)
+- 🥽 XR/VR Audio Development
+- ⚙️ Audio Systems Architecture
+- 🎯 Game Systems & Gameplay Programming
 
 ---
 
-## **Skills**
-- **Languages**: Python, C++  
-- **Frameworks**: Django, Flask, JUCE, TensorFlow, Keras, Hugging Face  
-- **AI/ML**: NLP, RLHF, Deep Learning, AI Agents, Generative AI  
-- **Game Audio**: Unreal Engine, Unity, Wwise, DSP, spatial audio  
-- **DevOps & Backend**: Docker, PostgreSQL, CI/CD, GitHub Actions  
+## **Work & Projects**
+
+**Game Audio & Sound Design:**
+- Technical Sound Designer & Audio Programmer (Self-employed, ongoing)
+- Lead Sound Designer – [Cat's Craving](https://m1k3-s0und.itch.io/cats-craving) (Unreal Engine, full audio pipeline)
+- Sound Designer – Cookie Cutter, Project Librarian, multiple game jam titles
+- [Itch.io Portfolio](https://m1k3-s0und.itch.io/)
+
+**Software & Tools:**
+- [Pink Noise Generator](https://github.com/Mike014/Pink-Noise-Website)
+- [Audio Classification System](https://github.com/Mike014/Audio-Classification)
+- [Unreal C++ Audio Experiments](https://github.com/Mike014/My-Cpp-Codes-For-UnrealEngine)
+
+**Open-Source Contributions:**
+- Approved merges in **NLTK** (Python NLP library) and **DocsGPT**
+- Contributing to Unity-related game development tools
+
+**AI & Research:**
+- [NoVa](https://app.readytensor.ai/publications/nova-a-personalized-ai-assistant-for-autonomous-agentic-interaction-GyV7qnYs2Bsc) – AI agent exploration
+- [Memory-Augmented AI Research](https://zenodo.org/) – Long-term memory architectures for neural networks
+- Independent AI research through Atlas Research
+
+**Music:**
+- Electronic IDM/EDM producer – [Bandcamp](https://michelegrimaldi014.bandcamp.com/) | [YouTube](https://www.youtube.com/@AuTomA_014)
 
 ---
 
-## **Certifications & Badges**
-- 🎓 [Codecademy – Computer Science](https://www.codecademy.com/profiles/Mike_014)  
-- 🎓 [Coursera – IBM AI Engineering](https://www.coursera.org/account/accomplishments/verify/FTOT93G7FQOV)  
-- 🎓 [Coursera – Meta Back-End Developer](https://www.coursera.org/account/accomplishments/verify/03LH0Q5FV9QX)  
-- 🎓 [EdX – Django Web Development](https://courses.edx.org/certificates/a52e2818fd7a4dd995edf2b6953b8a8d)  
-- 🎓 [Credly Badges](https://www.credly.com/users/michele-grimaldi.55d64591)
+## **Technical Skills**
+
+**Programming Languages:**
+Python · C++ · C# 
+
+**Game Development:**
+Unity · Unreal Engine · C# · Game Systems Architecture · Interactive Audio
+
+**Audio Programming:**
+Wwise · Spatial Audio · DSP · Real-Time Audio Processing · Procedural Audio · JUCE
+
+**Tools & DevOps:**
+Git · GitHub 
 
 ---
 
-📫 **Contact**  
-- Email: mikgrimaldi7@gmail.com  
-- LinkedIn: [Michele Grimaldi](https://www.linkedin.com/in/michele-g-39a80b248/)  
-- GitHub: [Mike014](https://github.com/Mike014)  
+## **Connect**
 
-
+📧 Email: mikgrimaldi7@gmail.com  
+🔗 LinkedIn: [Michele Grimaldi](https://www.linkedin.com/in/michele-g-39a80b248/)  
+💻 GitHub: [Mike014](https://github.com/Mike014)
 
 
