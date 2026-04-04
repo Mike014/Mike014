@@ -9,26 +9,12 @@
 
 ---
 
-## **About Me**
-
-Audio Programmer specializing in game development and XR/VR systems. Currently completing a Master's in Game Development at **Epicode** (finishing March 2026), with 3+ years of experience in game audio, sound design, and interactive systems.
-
-I bridge creative audio design with technical implementation—building scalable audio architectures, procedural systems, and interactive audio that responds to gameplay.
-
-**Current Focus:**
-- 🎮 Game Audio Programming (Wwise, spatial audio, interactive systems)
-- 🥽 XR/VR Audio Development
-- ⚙️ Audio Systems Architecture
-- 🎯 Game Systems & Gameplay Programming
-
----
-
 ## **Work & Projects**
 
 **Game Audio & Sound Design:**
 - Technical Sound Designer & Audio Programmer (Self-employed, ongoing)
 - Lead Sound Designer – [Cat's Craving](https://m1k3-s0und.itch.io/cats-craving) (Unreal Engine, full audio pipeline)
-- Sound Designer – Cookie Cutter, Project Librarian, multiple game jam titles
+- Sound Designer – Cookie Cutter, Project Librarian, multiple game jam
 - [Itch.io Portfolio](https://m1k3-s0und.itch.io/)
 
 **Software & Tools:**
