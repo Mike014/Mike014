@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Mike014" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=50&lines=Michele+Grimaldi;Audio+Programmer+%26+Game+Developer"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
-
 ## **Work & Projects**
 
 **Game Audio & Sound Design:**
