@@ -1,6 +1,6 @@
 ## **Work & Projects**
 
-## **Software Engineer: C# · C++ · .NET · Python**
+## **Software Engineer: C# · C++ · .NET · Python · JUCE · Unity · Unreal Engine**
 
 **Game Audio & Sound Design:**
 - Technical Sound Designer & Audio Programmer (Self-employed, ongoing)
