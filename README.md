@@ -1,5 +1,7 @@
 ## **Work & Projects**
 
+## **Software Engineer: C# · C++ · .NET · Python**
+
 **Game Audio & Sound Design:**
 - Technical Sound Designer & Audio Programmer (Self-employed, ongoing)
 - Lead Sound Designer – [Cat's Craving](https://m1k3-s0und.itch.io/cats-craving) (Unreal Engine, full audio pipeline)
