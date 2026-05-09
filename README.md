@@ -1,6 +1,6 @@
 ## **Work & Projects**
 
-## **Software Engineer: C#.NET · C++ ·  Python 
+## **Software Engineer: C#.NET · C++ ·  Python**
 
 **Game Audio & Sound Design:**
 - Technical Sound Designer & Audio Programmer (Self-employed, ongoing)
