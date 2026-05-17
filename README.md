@@ -32,15 +32,6 @@
 **Programming Languages:**
 Python · C++ · C# 
 
-**Game Development:**
-Unity · Unreal Engine · C# · Game Systems Architecture · Interactive Audio
-
-**Audio Programming:**
-Wwise · Spatial Audio · DSP · Real-Time Audio Processing · Procedural Audio · JUCE
-
-**Tools & DevOps:**
-Git · GitHub 
-
 ---
 
 ## **Connect**
