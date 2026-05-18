@@ -1,5 +1,5 @@
 ## Hi, I'm Michele Grimaldi 
-**Software Engineer | C# · C++ · Python**
+**Software Engineer**
 
 I build event-driven, performance-critical systems. My technical focus is strictly on high-performance architecture, system decoupling, and advanced AI integration workflows.
 
