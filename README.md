@@ -42,9 +42,8 @@ I am an active open-source contributor, regularly navigating, debugging, and ref
   
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark&hide=stars)
 ---
 
 ### 📫 Connect
