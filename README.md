@@ -42,7 +42,7 @@ I am an active open-source contributor, regularly navigating, debugging, and ref
   
 ### 📊 GitHub Stats
 
-![Top Languages](./top-langs.svg)
+![Top Languages](https://raw.githubusercontent.com/Mike014/Mike014/main/top-langs.svg)
 
 ---
 
