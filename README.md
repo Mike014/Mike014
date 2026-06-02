@@ -40,10 +40,6 @@ I am an active open-source contributor, regularly navigating, debugging, and ref
 * **Architecture:** OOP, Event-Driven, SOLID, Multithreading, Dependency Injection
 * **Practices:** CI/CD, Git, Unit Testing, Strict Memory Management
   
-### 📊 GitHub Stats
-
-![Top Languages](https://raw.githubusercontent.com/Mike014/Mike014/main/top-langs.svg)
-
 ---
 
 ### 📫 Connect
