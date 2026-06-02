@@ -42,7 +42,7 @@ I am an active open-source contributor, regularly navigating, debugging, and ref
   
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
+![Top Languages](./top-langs.svg)
 
 ---
 
