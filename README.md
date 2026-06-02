@@ -39,7 +39,12 @@ I am an active open-source contributor, regularly navigating, debugging, and ref
 * **Languages:** C#, C++, Python, Java
 * **Architecture:** OOP, Event-Driven, SOLID, Multithreading, Dependency Injection
 * **Practices:** CI/CD, Git, Unit Testing, Strict Memory Management
+  
+### 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike014&layout=compact&theme=dark&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike014&show_icons=true&theme=dark&hide=stars)
 ---
 
 ### 📫 Connect
