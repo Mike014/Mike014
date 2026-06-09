@@ -29,11 +29,6 @@ I build event-driven, performance-critical systems. My technical focus is strict
 
 ---
 
-### 🌐 Open Source Mindset
-I am an active open-source contributor, regularly navigating, debugging, and refactoring large-scale, complex repositories (30k+ commits). My focus when contributing to the community centers on fixing core architectural flaws, improving cross-stack error handling, and optimizing data integrity in enterprise-level tools. 
-
----
-
 ### 💻 Core Stack
 
 * **Languages:** C#, C++, Python, Java
