@@ -1,4 +1,4 @@
-## Hi, I'm Michele Grimaldi 
+## Hi, I'm [Michele Grimaldi](https://docs.google.com/document/d/1E_FHlV7f7D8BTIOwFbviiaHBnCswhnIu1V2Ppv5_8lY/edit?tab=t.0) 
 **Software AI Engineer**
 
 I build event-driven, performance-critical systems. My technical focus is strictly on high-performance architecture, system decoupling, and advanced AI integration workflows.
