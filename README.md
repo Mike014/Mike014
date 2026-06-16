@@ -1,13 +1,6 @@
 ## Hi, I'm [Michele Grimaldi](https://docs.google.com/document/d/1E_FHlV7f7D8BTIOwFbviiaHBnCswhnIu1V2Ppv5_8lY/edit?tab=t.0) 
 **Software AI Engineer**
 
-I build event-driven, performance-critical systems. My technical focus is strictly on high-performance architecture, system decoupling, and advanced AI integration workflows.
-
-**Engineering Highlights:**
-* **Top 1% Python Engineers Globally** (Algora Index).
-* Highly active in the **Open-Source ecosystem**, maintaining an average of **2.2 commits per day**.
-* Specialized in CI/CD workflows, multithreading, and codebase-first problem solving.
-
 <img src="https://algora.io/og/user/Mike014" alt="Algora Profile Card" width="450" />
 
 ---
@@ -31,7 +24,7 @@ I build event-driven, performance-critical systems. My technical focus is strict
 
 ### 💻 Core Stack
 
-* **Languages:** C#, C++, Python, Java
+* **Languages:** C#, C++, Python, Java, Rust
 * **Architecture:** OOP, Event-Driven, SOLID, Multithreading, Dependency Injection
 * **Practices:** CI/CD, Git, Unit Testing, Strict Memory Management
   
