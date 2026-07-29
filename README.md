@@ -11,7 +11,7 @@
 
 ### 📫 Connect
 📧 **Email**: [grimaldimichele806@gmail.com](mailto:grimaldimichele806@gmail.com)  
-🔗 **LinkedIn**: [Michele Grimaldi](https://www.linkedin.com/in/michele-g-39880b248/)
+🔗 **LinkedIn**: [Michele Grimaldi](https://www.linkedin.com/in/michele-grimaldi-dev/)
 
 
 
